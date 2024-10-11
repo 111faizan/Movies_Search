@@ -1,2 +1,1 @@
-# Movies-Search
-# Movies_Search
+# Movies-Search and discover
