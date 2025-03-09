@@ -79,13 +79,6 @@ const Footer = () => {
         <div className='copyright'>
           <div className='container'>
             <p className='para'>
-              <a
-                className='link'
-                href=''
-                target='_blank'
-                rel='noreferrer'>
-                Internship Project
-              </a>
             </p>
           </div>
         </div>
