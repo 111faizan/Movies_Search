@@ -83,9 +83,6 @@ The **Watch Later** feature allows users to save movies to a list that they can 
 ### Accessing the Watch Later List:
 - Users can navigate to the **Watch Later** section to view the movies they have saved, remove movies from the list, or access detailed information for each.
 
----
-
-Let me know if you'd like further changes!
 
 ![Capture12](https://github.com/user-attachments/assets/811def82-4852-4f68-8d7d-82bc087ff3c6)
 
